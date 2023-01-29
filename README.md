@@ -158,11 +158,13 @@ h1{
 
 ## OUTPUT:
 
-![ OUTPUT](./out.png)
+![out](https://user-images.githubusercontent.com/119476792/215319864-70275799-ffcd-4ed3-8272-47b1f4a6a819.png)
+
 
 ## HTML VALIDATOR:
 
-![ HTML VALIDATOR](./valid.png) 
+![valid](https://user-images.githubusercontent.com/119476792/215319876-92c89700-2e69-4981-89d4-9947c23f50b2.png)
+
 
 ## RESULT:
 The program for designing a simple calculater using JavaScript is executed successfully.
